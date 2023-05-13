@@ -6,7 +6,7 @@
 NOTES. <br><br>
 Run Programs with CMake, OpenCV 4.7.0 and Visual Studio 2019. 
 
-- Release Version (https://github.com/Think-Big-Do-Small/CvImageProcessingAssistant/tree/main/Release)
+- Release Version - [CvImageProcessingAssistant] (https://github.com/Think-Big-Do-Small/CvImageProcessingAssistant/tree/main/Release)
 
 - Demo 1 : enhance image 
 - ![GithubHeader](https://github.com/Think-Big-Do-Small/CvImageProcessingAssistant/blob/main/demos/test_demo.gif) <br>
