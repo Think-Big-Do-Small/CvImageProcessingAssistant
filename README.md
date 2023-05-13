@@ -39,12 +39,10 @@ int main(int argc, char* argv[]) {
 - I am recently doing some image segmentation projects with c++, python and cuda background matting etc. <br> 
 
 ### About Software Development Experience
+- CvImageProcessingAssistant - [CvImageProcessingAssistant](https://github.com/Think-Big-Do-Small/CvImageProcessingAssistant) <br>
+- Cuda-OpenCV-Object-Detection-Demo - [CvImageProcessingAssistant](https://github.com/Think-Big-Do-Small/Cuda-OpenCV-Object-Detection-Demo)<br> 
 - RabbitRun(smart file packaging with high speed and efficiency)  <br> 
 visit site: www.aizaozhidao.vip/tuzikuaipao 
-
 - AI早知道(ai related projects for demostration) <br> 
 visit site: www.aizaozhidao.vip 
-
-- CvImageProcessingAssistant - [CvImageProcessingAssistant](https://github.com/Think-Big-Do-Small/CvImageProcessingAssistant) <br>
-- Cuda-OpenCV-Object-Detection-Demo - [CvImageProcessingAssistant](https://github.com/Think-Big-Do-Small/Cuda-OpenCV-Object-Detection-Demo)
 
