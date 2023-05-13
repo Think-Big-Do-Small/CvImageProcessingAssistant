@@ -12,7 +12,7 @@ Run Programs with CMake, OpenCV 4.7.0 and Visual Studio 2019.
 - ![GithubHeader](https://github.com/Think-Big-Do-Small/CvImageProcessingAssistant/blob/main/demos/test_denoise_demo.gif)
 
 
-### CvImageProcessingAssistant NOTES SERIES 
+### CvImageProcessingAssistant NOTES  
 - CvImageProcessingAssistant - [CvImageProcessingAssistant](https://github.com/Think-Big-Do-Small/CvImageProcessingAssistant/blob/main/main.cpp)
 ```bash
 
