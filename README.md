@@ -45,3 +45,6 @@ visit site: www.aizaozhidao.vip/tuzikuaipao
 - AI早知道(ai related projects for demostration) <br> 
 visit site: www.aizaozhidao.vip 
 
+- CvImageProcessingAssistant - [CvImageProcessingAssistant](https://github.com/Think-Big-Do-Small/CvImageProcessingAssistant) <br>
+- Cuda-OpenCV-Object-Detection-Demo - [CvImageProcessingAssistant](https://github.com/Think-Big-Do-Small/Cuda-OpenCV-Object-Detection-Demo)
+
