@@ -36,7 +36,7 @@ int main(int argc, char* argv[]) {
 - I am familar with flask, apache tomcat
 - I am familar with libraries qt, opencv, caffe, keras, tensorflow, openvino
 - I am familar with gpu libraries like cuda, cudnn
-- I am recently doing some image segmentation projects with c++, python and cuda <br> background matting etc. <br> 
+- I am recently doing some image segmentation projects with c++, python and cuda background matting etc. <br> 
 
 ### About Software Development Experience
 - RabbitRun(smart file packaging with high speed and efficiency)  <br> 
