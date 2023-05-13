@@ -6,8 +6,11 @@
 NOTES. <br><br>
 Run Programs with CMake, OpenCV 4.7.0 and Visual Studio 2019. 
 
+- Demo 
+- ![GithubHeader](https://github.com/Think-Big-Do-Small/CvImageProcessingAssistant/blob/main/demos/test_demo.gif)
+
 - Test Image 
-![GithubHeader](https://github.com/Think-Big-Do-Small/CvImageProcessingAssistant/blob/main/test.png)
+![GithubHeader](https://github.com/Think-Big-Do-Small/CvImageProcessingAssistant/blob/main/demos/test.png)
 - Enhanced Image 
 ![GithubHeader](https://github.com/Think-Big-Do-Small/CvImageProcessingAssistant/blob/main/enhanced_image.png)
 - Denoised Image 
