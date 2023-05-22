@@ -6,13 +6,7 @@
 NOTES. <br><br>
 Run Programs with CMake, OpenCV 4.7.0 and Visual Studio 2019. 
 
-- Release Version - [CvImageProcessingAssistant](https://github.com/Think-Big-Do-Small/CvImageProcessingAssistant/tree/main/Release)
-
-- Demo 1 : enhance image 
-- ![GithubHeader](https://github.com/Think-Big-Do-Small/CvImageProcessingAssistant/blob/main/demos/test_demo.gif) <br>
-- Demo 2 : denoise image 
-- ![GithubHeader](https://github.com/Think-Big-Do-Small/CvImageProcessingAssistant/blob/main/demos/test_denoise_demo.gif)
-
+# QT_IMAGE_FORMAT_CONVERT
 ```bash 
 QImage ImageFormatOpStack::Mat2QImage(cv::Mat const& src)
 {
@@ -38,6 +32,15 @@ cv::Mat ImageFormatOpStack::QPixmap2Mat(QPixmap const& pix) {
     return QImage2Mat(pix.toImage());
 }
 ```
+
+- Release Version - [CvImageProcessingAssistant](https://github.com/Think-Big-Do-Small/CvImageProcessingAssistant/tree/main/Release)
+
+- Demo 1 : enhance image 
+- ![GithubHeader](https://github.com/Think-Big-Do-Small/CvImageProcessingAssistant/blob/main/demos/test_demo.gif) <br>
+- Demo 2 : denoise image 
+- ![GithubHeader](https://github.com/Think-Big-Do-Small/CvImageProcessingAssistant/blob/main/demos/test_denoise_demo.gif)
+
+
 
 
 ### CvImageProcessingAssistant NOTES  
