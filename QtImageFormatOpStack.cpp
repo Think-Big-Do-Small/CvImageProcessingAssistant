@@ -5,11 +5,6 @@
 
 #include "QtImageFormatOpStack.h"
 
-/* 
-ImageFormatOpStack::ImageFormatOpStack() {
-}
-*/
-
 QImage ImageFormatOpStack::Mat2QImage(cv::Mat const& src)
 {
     if (3 != src.channels()) return QImage();
