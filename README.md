@@ -7,6 +7,7 @@ NOTES. <br><br>
 Run Programs with CMake, OpenCV 4.7.0 and Visual Studio 2019. 
 
 # Download 
+- release version 1.0 for windows 7 and above.
 - [JoyfulImage-v1.0-x86-x64-setup.exe](https://github.com/Think-Big-Do-Small/CvImageProcessingAssistant/releases/download/v1.0/JoyfulImage-v1.0-x86-x64-setup.exe)
   
 # QT_IMAGE_FORMAT_CONVERT
