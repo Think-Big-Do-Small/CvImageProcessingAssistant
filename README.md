@@ -37,7 +37,6 @@ cv::Mat ImageFormatOpStack::QPixmap2Mat(QPixmap const& pix) {
 }
 ```
 
-- Release Version - [CvImageProcessingAssistant](https://github.com/Think-Big-Do-Small/CvImageProcessingAssistant/tree/main/Release)
 
 - Demo 1 : enhance image 
 - ![GithubHeader](https://github.com/Think-Big-Do-Small/CvImageProcessingAssistant/blob/main/demos/test_demo.gif) <br>
